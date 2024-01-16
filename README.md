@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @hardiksinghh18
 - 👀 I’m interested in Web Development,Open-source,Freelancing
-- 🌱 I’m currently learning NextJS
+  
+- 💻 Tech Stack:
+- React.js: Turning ideas into interactive components.
+- Next.js: Building fast and optimized web applications.
+
+- 🚀 What I Do:
+- Transforming design mockups into pixel-perfect, functional UIs.
+- Collaborating with cross-functional teams to deliver high-quality software.
+- Embracing new technologies and staying updated with the ever-evolving frontend landscape.
+
 - 📫 How to reach me :
         Email:hardiksingh950@gmail.com,
         LinkedIn:www.linkedin.com/in/hardiksingh18
