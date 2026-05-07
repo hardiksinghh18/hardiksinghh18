@@ -22,6 +22,11 @@ I build high-performance web applications with a focus on frontend optimization 
   <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,docker,postman" />
 </p>
 
+---
+
+### 🐍 Contributions:
+
+<img src="https://raw.githubusercontent.com/hardiksinghh18/hardiksinghh18/output/snake.svg" alt="Snake animation" />
 
 ---
 
