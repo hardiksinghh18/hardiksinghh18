@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Hardik Singh
-**Full-Stack Developer | [cite_start]B.Tech CSE '25** [cite: 3, 34, 37]
+**Full-Stack Developer | B.Tech CSE '25** [cite: 3, 34, 37]
 
 I build high-performance web applications with a focus on frontend optimization and AI integration.
 
