@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Hardik Singh
 **Full-Stack Developer | B.Tech CSE '25**
 
-I build high-performance web applications with a focus on frontend optimization and AI integration.
+I have ~2 years of experience building high-performance web applications with a focus on frontend optimization and AI integration.
 
 ---
 
